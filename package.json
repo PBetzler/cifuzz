@@ -3,5 +3,8 @@
 		"@prettier/plugin-xml": "^3.2.1",
 		"danger": "^11.2.6",
 		"prettier": "^3.0.3"
+	},
+	"dependencies": {
+		"yarn": "^1.22.21"
 	}
 }
